@@ -1,0 +1,34 @@
+﻿  screen.cpp
+C:\Users\Дима\Desktop\screen\screen\screen.cpp(111,41): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Дима\Desktop\screen\screen\screen.cpp(111,32): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Дима\Desktop\screen\screen\screen.cpp(122,30): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Дима\Desktop\screen\screen\screen.cpp(126,101): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Дима\Desktop\screen\screen\screen.cpp(126,59): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Дима\Desktop\screen\screen\screen.cpp(132,31): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Дима\Desktop\screen\screen\screen.cpp(135,101): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Дима\Desktop\screen\screen\screen.cpp(135,59): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+  screen.vcxproj -> C:\Users\Дима\Desktop\screen\x64\Debug\screen.exe
